@@ -1,0 +1,9 @@
+.env
+__pycache__/
+*.pyc
+.DS_Store
+implementation_details.md
+data/ragas_report.json
+evidence/*.png
+evidence/*.txt
+evidence/*.json
